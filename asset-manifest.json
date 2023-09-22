@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TechWitkunal/text-util/static/css/main.87813059.css",
-    "main.js": "/TechWitkunal/text-util/static/js/main.17847d43.js",
-    "static/js/787.36753b98.chunk.js": "/TechWitkunal/text-util/static/js/787.36753b98.chunk.js",
-    "index.html": "/TechWitkunal/text-util/index.html",
-    "main.87813059.css.map": "/TechWitkunal/text-util/static/css/main.87813059.css.map",
-    "main.17847d43.js.map": "/TechWitkunal/text-util/static/js/main.17847d43.js.map",
-    "787.36753b98.chunk.js.map": "/TechWitkunal/text-util/static/js/787.36753b98.chunk.js.map"
+    "main.css": "/TechWitkunal/Text-Util/static/css/main.87813059.css",
+    "main.js": "/TechWitkunal/Text-Util/static/js/main.fd1b351c.js",
+    "static/js/787.36753b98.chunk.js": "/TechWitkunal/Text-Util/static/js/787.36753b98.chunk.js",
+    "index.html": "/TechWitkunal/Text-Util/index.html",
+    "main.87813059.css.map": "/TechWitkunal/Text-Util/static/css/main.87813059.css.map",
+    "main.fd1b351c.js.map": "/TechWitkunal/Text-Util/static/js/main.fd1b351c.js.map",
+    "787.36753b98.chunk.js.map": "/TechWitkunal/Text-Util/static/js/787.36753b98.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.87813059.css",
-    "static/js/main.17847d43.js"
+    "static/js/main.fd1b351c.js"
   ]
 }
